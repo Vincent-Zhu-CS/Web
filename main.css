@@ -1,0 +1,39 @@
+body {
+ background-color: black;
+ font-family: "New Century Schoolbook";
+ color: DeepPink;
+}
+/*Changes the background from the default white to black, font family into "New Century Schoolbook", and the color to deep pink*/
+
+
+ul {
+	font-style:bold; 
+	font-size: 18px;
+	font-family: "Palatino";
+}
+/*Made the font bold and size 18, also is in the family "Palatino"*/
+
+p {
+  background-color: black;
+  border-color: DeepPink;
+  border-style: solid;
+  color: DeepPink;
+}
+/*Makes the background of texts black, the text itself deep pink, and surrounded by a pink "dashed" border*/
+
+h1 {
+	font-size: 60px;
+}
+/*Makes h1 fonts 50 px*/
+
+h2 {
+	font-size: 30px;
+	color: Fuchia
+}
+/*Makes h2 fonts 30 px and set font color to Fuchia*/
+
+h3 {
+	font-size: 20px;
+	color: DarkOrchid;
+}
+/*Makes the fonts for h3 20px and colored DarkOrchid*/
